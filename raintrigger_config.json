@@ -1,0 +1,7 @@
+{
+    "mac_addresses": [
+        "AA:BB:CC:DD:EE:FF",
+        "11:22:33:44:55:66"
+    ],
+    "autostart": true
+}
